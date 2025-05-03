@@ -2,7 +2,7 @@ Contact: hiuyung.wong@sjsu.edu
 Citation: K. Mehta and H. -Y. Wong, "Prediction of FinFET Current-Voltage and Capacitance-Voltage Curves Using Machine Learning With Autoencoder," in IEEE Electron Device Letters, vol. 42, no. 2, pp. 136-139, Feb. 2021, doi: 10.1109/LED.2020.3045064.
 TCAD Tool: TCAD Sentaurus
 TCAD Version: Q-2019.12
-Descriptions: There are 318 structures. This is based on the project "Application Note: Three-Dimensional Simulation of 14/16 nm FinFETs With Round Fin Corners and Tapered Fin Shape, Synopsys, Mountain View, CA, USA, 2019."
+Descriptions: There are 318 structures. This is based on the project "Application Note: Three-Dimensional Simulation of 14/16 nm FinFETs With Round Fin Corners and Tapered Fin Shape, Synopsys, Mountain View, CA, USA, 2019."
 Files:
 FinFET_14nm_training_validation_neg1_revised.csv contains the structure variations. Only WF, WTop, and L are changed. 
 FinFET_14nm_training_validation_neg1_revised_CV.csv contains the CV curves. 
