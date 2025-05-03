@@ -4,5 +4,9 @@ TCAD Tool: TCAD Sentaurus
 TCAD Version: Q-2019.12
 Descriptions: There are 318 structures. This is based on the project "Application Note: Three-Dimensional Simulation of 14/16 nm FinFETs With Round Fin Corners and Tapered Fin Shape, Synopsys, Mountain View, CA, USA, 2019."
 Files:
-FinFET_14nm_training_validation_neg1_revised.csv contains the structure variations. Only WF, WTop, and L are changed. FinFET_14nm_training_validation_neg1_revised_CV.csv contains the CV curves. FinFET_14nm_training_validation_neg1_revised_IVLIN.csv contains the linear IdVg curves. FinFET_14nm_training_validation_neg1_revised_IVSAT.csv contains the saturation IdVg curves.
+FinFET_14nm_training_validation_neg1_revised.csv contains the structure variations. Only WF, WTop, and L are changed. 
+FinFET_14nm_training_validation_neg1_revised_CV.csv contains the CV curves. 
+FinFET_14nm_training_validation_neg1_revised_IVLIN.csv contains the linear IdVg curves. 
+FinFET_14nm_training_validation_neg1_revised_IVSAT.csv contains the saturation IdVg curves.
+StructureFile_FinFET14nm.pdf contains snapshots and links to tdr and dfise (ASCII) files.
 
