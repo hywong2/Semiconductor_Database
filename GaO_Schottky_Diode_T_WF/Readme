@@ -6,7 +6,7 @@ TCAD Tool: TCAD Sentaurus
 
 TCAD Version: O-2018.06
 
-Descriptions: 2000 GaN Schottky Diode with cylindrical and self-heating simulation. The ambient temperature and anode workfunction are varied.
+Descriptions: 2000 GaN Schottky Diode with cylindrical and self-heating simulation. The ambient temperature and anode workfunction are varied. Only 500 were randomly selected and used in the paper.
 Files:
 
 
