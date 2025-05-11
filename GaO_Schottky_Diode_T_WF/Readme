@@ -1,1 +1,13 @@
-Harsaroop Dhillon, Kashyap Mehta, Ming Xiao, Boyan Wang, Yuhao Zhang, and Hiu Yung Wong, "TCAD-Augmented Machine Learning with and without Domain Expertise," in IEEE Transactions on Electron Devices, vol. 68, no. 11, pp. 5498-5503, Nov. 2021, doi: 10.1109/TED.2021.3073378.
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: Harsaroop Dhillon, Kashyap Mehta, Ming Xiao, Boyan Wang, Yuhao Zhang, and Hiu Yung Wong, "TCAD-Augmented Machine Learning with and without Domain Expertise," in IEEE Transactions on Electron Devices, vol. 68, no. 11, pp. 5498-5503, Nov. 2021, doi: 10.1109/TED.2021.3073378.
+
+TCAD Tool: TCAD Sentaurus
+
+TCAD Version: O-2018.06
+
+Descriptions: 2000 GaN Schottky Diode with cylindrical and self-heating simulation. The ambient temperature and anode workfunction are varied.
+Files:
+
+
+
