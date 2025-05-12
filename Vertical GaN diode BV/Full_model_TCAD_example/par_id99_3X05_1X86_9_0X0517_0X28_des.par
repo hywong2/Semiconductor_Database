@@ -1,0 +1,103 @@
+* Copyright (c) 1994-2015 Synopsys, Inc.
+* This parameter file and the associated documentation are proprietary
+* to Synopsys, Inc.  This parameter file may only be used in accordance
+* with the terms and conditions of a written license agreement with
+* Synopsys, Inc.  All other use, reproduction, or distribution of this
+* parameter file is strictly prohibited.
+
+
+
+LatticeParameters {
+	X = (0, 0,-1)
+	Y = (1, 0, 0)
+}
+
+Material= "GaN" {
+	Scharfetter * relation and trap level for SRH recombination:
+	{ * tau = taumin + ( taumax - taumin ) / ( 1 + ( N/Nref )^gamma)
+	  * tau(T) = tau * ( (T/300)^Talpha )          (TempDep)
+	  * tau(T) = tau * exp( Tcoeff * ((T/300)-1) ) (ExpTempDep)
+		taumin	= 0.0000e+00 ,	0.0000e+00	# [s]
+		taumax	= 12e-09,	12e-09	# [s]
+		Nref	= 3.5000e+15 ,	3.5000e+15	# [cm^(-3)]
+		gamma	= 1 ,	1	# [1]
+		Talpha	= -1.5000e+00 ,	-1.5000e+00	# [1]
+		Tcoeff	= 2.55 ,	2.55	# [1]
+		Etrap	= 0.0000e+00	# [eV]
+	}
+
+	vanOverstraetendeMan * Impact Ionization:
+	{ * G_impact = alpha_n n v_drift_n  +  alpha_p p v_drift_p
+	  * with alpha = gamma a  exp(-b gamma/E) for E<E0 (low) and E>E0 (high)
+	  *  with gamma = tanh(hbarOmega/(2kT0)) / tanh(hbarOmega/(2kT))
+		a(low)	= 2.9e+08 ,	5.4100e+06		# [1/cm]
+		a(high)	= 2.9e+08 ,	5.4100e+06		# [1/cm]
+		b(low)	= 3.4e+07 ,	1.9600e+07		# [V/cm]
+		b(high)	= 3.4e+07 ,	1.9600e+07		# [V/cm]
+		E0	= 1.0000e+00 ,	1.0000e+00		# [V/cm]
+		hbarOmega	= 0.066 ,	0.066		# [eV]
+	}
+
+	QuantumPotentialParameters
+	{ * gamma:  weighting factor for quantum potential
+	  * theta:  weight for quadratic term
+	  * xi:     weight for quasi Fermi potential
+	  * eta:    weight for electrostatic potential
+		gamma	= 1.4 ,	5.6	# [1]
+		theta	= 0.5 ,	0.5	# [1]
+		xi	= 1 ,	1	# [1]
+		eta	= 1 ,	1	# [1]
+	}
+	
+	Ionization {
+		Species ("pMagnesiumActiveConcentration") {
+			type= acceptor
+			E_0= 0.29	# Matches well average value in publications
+			alpha= 3e-8	# Same as Si for now
+			g= 4
+			Xsec = 1.0e-12
+		}
+	}
+	
+	Ionization {
+		Species ("nSiliconActiveConcentration") {
+			type= donor
+			E_0= 0.015	# In the literature;  Ea range from 7 meV to 20 meV for nSi in GaN
+			alpha= 3e-8	# Same as Si for now
+			g= 4
+			Xsec = 1.0e-12
+		}
+	}
+}
+
+Thermionic {
+	Formula= 1
+}
+
+
+BarrierTunneling "NLM" {
+	g	= 1 ,	1	# [1]
+	mt	= 0.3 ,	0.2	# [1]
+}
+
+
+Electrode = "top_schottky" {
+
+    BarrierLowering {
+	aa1 = 2.64e-4 , 2.64e-4
+	aa2 = 0.0 , 0.0
+	pp1 = 0.5 , 0.5
+	pp2 = 1.0 , 1.0
+	a1 = 2.6e-4
+	a2 = 0.0
+	p1 = 0.5
+	p2 = 1.0
+	eta = 1.0
+	c_weight = 1.0
+  }
+}
+
+
+
+
+
