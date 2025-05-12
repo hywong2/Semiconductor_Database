@@ -6,7 +6,7 @@ Y. S. Bankapalli and H. Y. Wong, "TCAD Augmented Machine Learning for Semiconduc
 
 Harsaroop Dhillon, Kashyap Mehta, Ming Xiao, Boyan Wang, Yuhao Zhang, and Hiu Yung Wong, "TCAD-Augmented Machine Learning with and without Domain Expertise," in IEEE Transactions on Electron Devices, vol. 68, no. 11, pp. 5498-5503, Nov. 2021, doi: 10.1109/TED.2021.3073378.
 
-H. Dhillon, K. Mehta, M. Xiao, B. Wang, Y. Zhang and H. Y. Wong, "TCAD-Augmented Machine Learning With and Without Domain Expertise," in IEEE Transactions on Electron Devices, vol. 68, no. 11, pp. 5498-5503, Nov. 2021, doi: 10.1109/TED.2021.3073378.
+Albert Lu, Jordan Marshall, Yifan Wang, Ming Xiao, Yuhao Zhang, Hiu Yung Wong, "Vertical GaN diode BV maximization through rapid TCAD simulation and ML-enabled surrogate model," Solid-State Electronics, Volume 198, 2022, 108468, https://doi.org/10.1016/j.sse.2022.108468.
 
 
 
