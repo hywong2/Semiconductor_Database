@@ -1,12 +1,20 @@
 Contact: hiuyung.wong@sjsu.edu
+
 Citation: Y. S. Bankapalli and H. Y. Wong, "TCAD Augmented Machine Learning for Semiconductor Device Failure Troubleshooting and Reverse Engineering," 2019 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Udine, Italy, 2019, pp. 1-4, doi: 10.1109/SISPAD.2019.8870467.
+
 TCAD Tool: TCAD Sentaurus
+
 TCAD Version: O-2018.06
+
 Descriptions: About 2000 PiN diodes were generated with different p-, i-, n-, thicknesses and 2000 generated with different p-, i-, n- doping
+
 Files:
+
 SISPAD_dataset2000_PIN_Doping_Variations.csv: Data for doping variations
 SISPAD_dataset2000_PIN_Length_Variations.csv: Data for length variations
 extracted_IV_example_data_99770006382255046656_4345102241715714_8531001140175912960_200_10_200.csv: Example of extracted IV.
 sdevice_example_ds_file_99770006382255046656_4345102241715714_8531001140175912960_200_10_200.cmd: Example of sdevice simulation file.
 sprocess_example_sp_file_99770006382255046656_4345102241715714_8531001140175912960_200_10_200.cmd: Example of sprocess simulation file.
+
+Structure and Field data can be found at https://drive.google.com/drive/folders/1FsKftay_Z-beeNIsopxNiKf4Q-lmmfCa?usp=drive_link
 
