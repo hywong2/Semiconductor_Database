@@ -16,7 +16,7 @@ extracted_IV_example_data_99770006382255046656_4345102241715714_8531001140175912
 sdevice_example_ds_file_99770006382255046656_4345102241715714_8531001140175912960_200_10_200.cmd: Example of sdevice simulation file.
 sprocess_example_sp_file_99770006382255046656_4345102241715714_8531001140175912960_200_10_200.cmd: Example of sprocess simulation file.
 
-4000 Structure and field data of all data can be found at 
+4000 Structure and field data of all data can be found at (see input file for snapshot voltage)
 
 https://drive.google.com/drive/folders/1FsKftay_Z-beeNIsopxNiKf4Q-lmmfCa?usp=drive_link
 
