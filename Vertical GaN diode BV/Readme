@@ -6,6 +6,12 @@ TCAD Tool: TCAD Sentaurus
 
 TCAD Version: S-2021.06
 
-Descriptions: About 2000 PiN diodes were generated with different p-, i-, n-, thicknesses and 2000 generated with different p-, i-, n- doping
+Descriptions: Design of GaN vertical diode with guard rings. 300 with full model and ~3000 with fast model.
 Files:
+FastModel_04182022_3530.csv : 3.5K data using fast model
+FullModel_from_300.csv : 300 data using full model
+FastModel_from_300.csv : 300 data using fast model to compare with the full model
 
+Original TCAD files generated for 300 fast and 300 full models:
+
+https://drive.google.com/drive/folders/1yagwURLX1Tleq32IKfla0iwQlvRb43u_?usp=drive_link
