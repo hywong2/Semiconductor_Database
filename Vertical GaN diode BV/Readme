@@ -1,1 +1,11 @@
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: Albert Lu, Jordan Marshall, Yifan Wang, Ming Xiao, Yuhao Zhang, Hiu Yung Wong, "Vertical GaN diode BV maximization through rapid TCAD simulation and ML-enabled surrogate model," Solid-State Electronics, Volume 198, 2022, 108468, https://doi.org/10.1016/j.sse.2022.108468.
+
+TCAD Tool: TCAD Sentaurus
+
+TCAD Version: S-2021.06
+
+Descriptions: About 2000 PiN diodes were generated with different p-, i-, n-, thicknesses and 2000 generated with different p-, i-, n- doping
+Files:
 
