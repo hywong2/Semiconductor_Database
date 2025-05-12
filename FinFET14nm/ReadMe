@@ -10,3 +10,5 @@ FinFET_14nm_training_validation_neg1_revised_IVLIN.csv contains the linear IdVg 
 FinFET_14nm_training_validation_neg1_revised_IVSAT.csv contains the saturation IdVg curves.
 StructureFile_FinFET14nm.pdf contains snapshots and links to tdr and dfise (ASCII) files.
 
+Original DFISE data files are lost.
+
