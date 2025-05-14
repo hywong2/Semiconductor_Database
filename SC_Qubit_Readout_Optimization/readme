@@ -1,0 +1,14 @@
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: Albert Lu and Hiu Yung Wong, "Rapid Simulation Framework for Superconducting Qubit Readout System Inverse Design and Optimization," 2024 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), San Jose, CA, USA, 2024, pp. 01-04, doi: 10.1109/SISPAD62626.2024.10733335.
+
+TCAD Tool: Matlab
+
+TCAD Version: R2023b
+
+Descriptions: Optimize readout pulse to minimize the readout error. Data are generated using Matlab simulatin code as a function of power, Q, measurement frequency, F, and pulse Width.
+
+Files:
+
+I_Q_Blob_Data.xlsx: I Q data for manually optimized and machine optimized |1>/|0> readout (Fig. 10 in the paper)
+Readout error as a function of pulse conditions
