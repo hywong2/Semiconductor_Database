@@ -9,5 +9,8 @@ Version: IC616
 Descriptions: Simulation data with various contact resistance and transistor width. Experimental data with various resistance.
 
 Files:
-
+Experimental_VTC.csv: Experimental Data
+Simulation_data_1_PMOS.csv: Simulation data with NP=1, W = 880u 
+Simulation_data_2_PMOS.csv: Simulation data with NP=2, W = 1760u 
+Simulation_data_3_PMOS.csv: Simulation data with NP=2, W = 2640u 
 
