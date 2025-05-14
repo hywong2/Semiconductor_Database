@@ -1,0 +1,13 @@
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: Thomas Lu, Varada Kanchi, Kashyap Mehta, Sagar Oza, Tin Ho, and Hiu Yung Wong, "Rapid MOSFET Contact Resistance Extraction from Circuit using SPICE Augmented Machine Learning without Feature Extraction," in IEEE Transactions on Electron Devices, vol. 68, no. 12, pp. 6026-6032, Dec. 2021, doi: 10.1109/TED.2021.3123092.
+
+Tool: Spectre
+
+Version: IC616
+
+Descriptions: Simulation data with various contact resistance and transistor width. Experimental data with various resistance.
+
+Files:
+
+
