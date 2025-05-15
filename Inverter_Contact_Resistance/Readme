@@ -9,9 +9,11 @@ Version: IC616
 Descriptions: Simulation data with various contact resistance and transistor width. Experimental data with various resistance.
 
 Files:
+
+*** It should be noted that Wn and Wp in each file and its filename are not used. Wp and Wn follows those given in the paper.
 Experimental_VTC.csv: Experimental Data
-Simulation_data_1_PMOS.csv: Simulation data with NP=1, W = 880u 
-Simulation_data_2_PMOS.csv: Simulation data with NP=2, W = 1760u 
-Simulation_data_3_PMOS.csv: Simulation data with NP=2, W = 2640u 
-input_9772372.209558113R1_912010.8393559096R0_0.0038696Wn_0.0003961Wp.scs: Exampkle of Spectre simulation file with calibrated model
+Simulation_data_1_PMOS.csv: Simulation data with NP=1, Wp = 880u 
+Simulation_data_2_PMOS.csv: Simulation data with NP=2, Wp = 1760u 
+Simulation_data_3_PMOS.csv: Simulation data with NP=2, Wp = 2640u 
+input_9772372.209558113R1_89125.0938133746R0_0.0062574Wn_0.0010757Wp.scs: Exampkle of Spectre simulation file with calibrated model
 
