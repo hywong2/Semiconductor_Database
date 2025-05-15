@@ -1,0 +1,52 @@
+// Generated for: spectre
+// Generated on: Sep 21 13:35:29 2020
+// Design library name: fun_lib
+// Design cell name: Inverter_s45
+// Design view name: schematic
+simulator lang=spice
+*Used for ALD1103 chips
+*Note: Properties L=10u W=880u
+.MODEL NMOS NMOS (LEVEL=3 
++TPG=1 TOX=6.00E-8 LD=2.08E-6 WD=4.00E-7
++U0= 1215 VTO=0.73 THETA=0.222 RS=0.74 RD=0.74 DELTA=2.5 
++NSUB=1.57E16 XJ=1.3E-6 VMAX=4.38E6 ETA=0.913 KAPPA=0.074 NFS=3E11
++CGSO=5.99E-10 CGDO=5.99E-10 CGBO=4.31E-10 PB=0.90 XQC=0.4)
+*
+*Used for ALD1103 chips
+*Note: Properties L=10u W=880u
+.MODEL  PMOS PMOS (LEVEL=3 
++TPG=1 TOX=6.00E-8 LD=2.08E-6 WD=4.00E-7
++U0=550 VTO=-0.89 THETA=0.222 RS=0.74 RD=0.74 DELTA=2.5 
++NSUB=1.57E16 XJ=1.3E-6 VMAX=4.38E6 ETA=0.913 KAPPA=0.074 NFS=3E11
++CGSO=5.99E-10 CGDO=5.99E-10 CGBO=4.31E-10 PB=0.90 XQC=0.4)
+simulator lang=spectre
+global 0
+include "/apps/cadence/gpdk/gpdk045_v_5_0/gpdk045/../models/spectre/gpdk045.scs" section=mc
+
+// Library name: fun_lib
+// Cell name: Inverter_s45
+// View name: schematic
+NM0 (Vout Vin net06 net06) NMOS w=880u l=10u nf=1 as=16.8f ad=16.8f \
+        ps=520n pd=520n nrd=1.16667 nrs=1.16667 sa=140n sb=140n sd=160n \
+        sca=226.00151 scb=0.11734 scc=0.02767 m=(1)
+PM0 (Vout Vin net08 net08) PMOS w=1760u l=10u nf=1 as=16.8f ad=16.8f \
+        ps=520n pd=520n nrd=1.16667 nrs=1.16667 sa=140n sb=140n sd=160n \
+        sca=226.00151 scb=0.11734 scc=0.02767 m=(1)
+V0 (net09 0) vsource dc=3 type=dc
+V2 (Vin 0) vsource type=pulse val0=0 val1=3 period=500.0m
+R1 (net06 0) resistor r=9772372.209558113 tc1=0 tc2=0 c=0
+R0 (net09 net08) resistor r=89125.0938133746 tc1=0 tc2=0 c=0
+simulatorOptions options reltol=1e-3 vabstol=1e-6 iabstol=1e-12 temp=27 \
+    tnom=27 scalem=1.0 scale=1.0 gmin=1e-12 rforce=1 maxnotes=5 maxwarns=5 \
+    digits=5 cols=80 pivrel=1e-3 sensfile="../psf/sens.output" \
+    checklimitdest=psf 
+dc dc dev=V2 param=dc start=0 stop=3 write="spectre.dc" oppoint=rawfile \
+    maxiters=150 maxsteps=10000 annotate=status 
+modelParameter info what=models where=rawfile
+element info what=inst where=rawfile
+outputParameter info what=output where=rawfile
+designParamVals info what=parameters where=rawfile
+primitives info what=primitives where=rawfile
+subckts info what=subckts where=rawfile
+save Vin Vout 
+saveOptions options save=allpub
