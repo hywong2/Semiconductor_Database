@@ -33,6 +33,8 @@ SC_Qubit_Readout_Optimization:
 
 Albert Lu and Hiu Yung Wong, "Rapid Simulation Framework for Superconducting Qubit Readout System Inverse Design and Optimization," 2024 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), San Jose, CA, USA, 2024, pp. 01-04, doi: 10.1109/SISPAD62626.2024.10733335.
 
+2D_Planar_Transistor_Inverse_Design:
 
+T. Lu, A. Lu and H. Y. Wong, "Device Image-IV Mapping using Variational Autoencoder for Inverse Design and Forward Prediction," 2023 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Kobe, Japan, 2023, pp. 161-164, doi: 10.23919/SISPAD57422.2023.10319583.
 
 
