@@ -25,6 +25,10 @@ Thomas Lu, Varada Kanchi, Kashyap Mehta, Sagar Oza, Tin Ho, and Hiu Yung Wong, "
 
 K. Mehta, S. S. Raju, M. Xiao, B. Wang, Y. Zhang and H. Y. Wong, "Improvement of TCAD Augmented Machine Learning Using Autoencoder for Semiconductor Variation Identification and Inverse Design," in IEEE Access, vol. 8, pp. 143519-143529, 2020, doi: 10.1109/ACCESS.2020.3014470.
 
+1D-PiN-Diode-ML-with-Noise:
+
+Citation: S. S. Raju, B. Wang, K. Mehta, M. Xiao, Y. Zhang and H. -Y. Wong, "Application of Noise to Avoid Overfitting in TCAD Augmented Machine Learning," 2020 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Kobe, Japan, 2020, pp. 351-354, doi: 10.23919/SISPAD49475.2020.9241654.
+
 SC_Qubit_Readout_Optimization:
 
 Albert Lu and Hiu Yung Wong, "Rapid Simulation Framework for Superconducting Qubit Readout System Inverse Design and Optimization," 2024 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), San Jose, CA, USA, 2024, pp. 01-04, doi: 10.1109/SISPAD62626.2024.10733335.
