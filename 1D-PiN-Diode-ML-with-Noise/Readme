@@ -9,7 +9,8 @@ TCAD Version: O-2018.06
 Descriptions: 
 
 Files:
-Set1-Data.csv: 
-Set2-Data.csv: 
+Set3-SISPAD_dataset2000_350_15_250.csv: 2000 data with n, i, p thicknesses of 350, 15, 250nm, respectively.
+Set1-Data.csv: https://github.com/hywong2/Semiconductor_Database/tree/main/1D-PiN-Inverse-Design
+Set2-Data.csv: https://github.com/hywong2/Semiconductor_Database/tree/main/1D-PiN-Inverse-Design
 
 For TCAD file, see https://github.com/hywong2/Semiconductor_Database/tree/main/1D-PiN_Diode
