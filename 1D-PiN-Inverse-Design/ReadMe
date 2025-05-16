@@ -9,4 +9,12 @@ TCAD Version: O-2018.06
 Descriptions: 
 
 Files:
+13-Hand-Drawn-Curves.zip: 13 hand-drawn IV curves in Fig. 12
+
+Set1-Data.csv: Set 1 data: FIGURE 1. Set 1 IV’s of the 2000 devices simulated. The concentration of the n+-doped and p+-doped layers are both 10^20 cm−3 and the donor
+concentration of the unintentionally-doped layer (i-layer) is 10^17 cm−3
+
+Set2-Data.csv: FIGURE 2. Set 2 IV’s of the 2000 devices simulated. The thicknesses of n+/i/p+ doped layers are 200nm/10nm/200nm. 
+
+For TCAD file, see https://github.com/hywong2/Semiconductor_Database/tree/main/1D-PiN_Diode
 
