@@ -1,0 +1,15 @@
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: S. S. Raju, B. Wang, K. Mehta, M. Xiao, Y. Zhang and H. -Y. Wong, "Application of Noise to Avoid Overfitting in TCAD Augmented Machine Learning," 2020 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Kobe, Japan, 2020, pp. 351-354, doi: 10.23919/SISPAD49475.2020.9241654.
+
+TCAD Tool: TCAD Sentaurus
+
+TCAD Version: O-2018.06
+
+Descriptions: 
+
+Files:
+Set1-Data.csv: 
+Set2-Data.csv: 
+
+For TCAD file, see https://github.com/hywong2/Semiconductor_Database/tree/main/1D-PiN_Diode
