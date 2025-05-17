@@ -37,4 +37,9 @@ Albert Lu and Hiu Yung Wong, "Rapid Simulation Framework for Superconducting Qub
 
 T. Lu, A. Lu and H. Y. Wong, "Device Image-IV Mapping using Variational Autoencoder for Inverse Design and Forward Prediction," 2023 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Kobe, Japan, 2023, pp. 161-164, doi: 10.23919/SISPAD57422.2023.10319583.
 
+LSTM_NBTI_PMOS_FinFET:
+
+Fanus Arefaine, Meng Duan, Ravi Tiwari, Lee Smith, Souvik Mahapatra, and Hiu Yung Wong, "Using Long Short-Term Memory (LSTM) Network to Predict Negative-Bias Temperature Instability," 2021 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), 2021, pp. 60-63, doi: 10.1109/SISPAD54002.2021.9592531.
+
+
 
