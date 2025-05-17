@@ -6,7 +6,8 @@ TCAD Tool: TCAD Sentaurus
 
 TCAD Version: S-2021.06
 
-Descriptions: 2000 GaO Schottky Diode IV curves as a function of Anode gate Workfunction, temperature, 5 PhuMob parameters.
+Descriptions: 20000 GaO Schottky Diode IV curves as a function of Anode gate Workfunction, temperature, 5 PhuMob parameters.
 
 Files:
 
+LHC_dataset_20k-MIMIC.csv: 20k IV data generated using LHC. Variable names are self-explanatory.
