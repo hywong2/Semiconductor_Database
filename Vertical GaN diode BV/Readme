@@ -6,7 +6,7 @@ TCAD Tool: TCAD Sentaurus
 
 TCAD Version: S-2021.06
 
-Descriptions: Design of GaN vertical diode with guard rings. 300 with full model and ~3000 with fast model.
+Descriptions: Design of GaN vertical diode with guard rings. Guard ring numbers, depth, width and spacing are varied. 300 with full model and ~3000 with fast model.
 Files:
 
 dBV_nid999_3X09_0X31_3_0X0556_0X15_des.plt: Example of BV curve
@@ -28,3 +28,9 @@ Original TCAD files generated for 300 fast and 300 full models and 4000 data for
 https://drive.google.com/drive/folders/1yagwURLX1Tleq32IKfla0iwQlvRb43u_?usp=drive_link
 zero_des.tdr: saved at zero biased
 des.tdr: saved at BV
+
+300_full_other_files.tar: simulaiton input files and results of the 300 devices using full model
+300_full_dfise.tar: simulation result converted to dfise text format at zero and bv for full model
+300_fast_other_files.tar: simulaiton input files and results of the 300 devices using fast model
+300_fast_dfise.tar:simulation result converted to dfise text format at zero and bv for fast model
+4000_fast_dfise.tar: about 4000 simulation result converted to dfise text format at zero and bv for fast model. Not all were used in the paper.
