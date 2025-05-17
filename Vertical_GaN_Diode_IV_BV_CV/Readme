@@ -1,0 +1,10 @@
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: N. Yee, A. Lu, Y. Wang, M. Porter, Y. Zhang and H. Y. Wong, "Rapid Inverse Design of GaN-on-GaN Diode with Guard Ring Termination for BV and (VFQ)−1 Co-Optimization," 2023 35th International Symposium on Power Semiconductor Devices and ICs (ISPSD), Hong Kong, 2023, pp. 143-146, doi: 10.1109/ISPSD57135.2023.10147511.
+
+TCAD Tool: TCAD Sentaurus
+
+TCAD Version: S-2021.06
+
+Descriptions: Design of GaN vertical diode with guard rings. Guard ring numbers, depth, width and spacing are varied. About 4000 are generated and only 266 were used in the paper. They contains BV, IV, and CV.
+Files:
