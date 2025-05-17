@@ -6,6 +6,18 @@ TCAD Tool: TCAD Sentaurus
 
 TCAD Version: R-2020.09
 
-Descriptions: 
+Descriptions: This is the time series data for a 2D transistor and 3D FinFET. It records the Nit and ABDWT Charge at the Silicon/Interfaical oxide interface.
+
+All files can be found here:
 
 https://drive.google.com/drive/folders/1bVNSs5Tkh3Wu4Xh-P9DNyh5ws1E0bbb9?usp=drive_link
+
+2D_NBTI_long_Training.csv: Data for the 2D structure. To repeat the paper, plot
+AveSilicon/InterfacialOxide hInterfaceTrappedCharge(Cycle_0_n31_0_des) Y
+AveInterfacialOxide ABDWTCharge(Cycle_0_n31_0_des) X
+
+3D_FinFET: Folder contains data for FinFET
+LSTM_3D_new.csv: Time series data. Plot AveChFin/Gateoxide1 hInterfaceTrappedCharge(Stress_n115_des) Y and AveChFin/Gateoxide1 ABDWTCharge(Stress_n115_des) Y
+pp115_des.cmd and pp115_des.par are sdevice command files
+n13_e_fps.tdr, n13_e_fps.grd, n13_e_fps.dat: structure file in tdr and dfise format
+
