@@ -41,5 +41,7 @@ LSTM_NBTI_PMOS_FinFET:
 
 Fanus Arefaine, Meng Duan, Ravi Tiwari, Lee Smith, Souvik Mahapatra, and Hiu Yung Wong, "Using Long Short-Term Memory (LSTM) Network to Predict Negative-Bias Temperature Instability," 2021 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), 2021, pp. 60-63, doi: 10.1109/SISPAD54002.2021.9592531.
 
+LSTM_NBTI_PMOS_FinFET:
 
+Albert Lu, Yu Foon Chau, and Hiu-Yung Wong, "Physics-Informed Neural Network for Predicting Out-of-Training-Range TCAD Solution with Minimized Domain Expertise," 2025 9th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Hong Kong.
 
