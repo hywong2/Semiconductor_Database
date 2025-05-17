@@ -45,3 +45,6 @@ LSTM_NBTI_PMOS_FinFET:
 
 Albert Lu, Yu Foon Chau, and Hiu-Yung Wong, "Physics-Informed Neural Network for Predicting Out-of-Training-Range TCAD Solution with Minimized Domain Expertise," 2025 9th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Hong Kong.
 
+GaO_Parameters_Variation:
+
+M. Eng and H. Y. Wong, "Automatic TCAD Model Parameter Calibration using Autoencoder," 2023 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Kobe, Japan, 2023, pp. 277-280, doi: 10.23919/SISPAD57422.2023.10319530.
