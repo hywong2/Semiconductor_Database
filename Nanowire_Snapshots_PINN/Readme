@@ -1,0 +1,21 @@
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: Albert Lu, Yu Foon Chau, and Hiu-Yung Wong, "Physics-Informed Neural Network for Predicting Out-of-Training-Range TCAD Solution with Minimized Domain Expertise," 2025 9th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Hong Kong.
+
+TCAD Tool: TCAD Sentaurus
+
+TCAD Version: T-2022.03
+
+Descriptions: 101 snapshots of a nanowire (2D) for Vg from 0V to 0.75V used for PINN.
+
+Files:
+
+
+https://drive.google.com/drive/folders/1Qh5rNWK19KSK5VgOcEHTyy-EgeMjn6sv?usp=drive_link
+
+data.tar: 101 snapshots in DFISE format
+mesh_data_y.npy: Extracted y coordinate from DFISE files in NumPy binary format
+mesh_data_x.npy: Extracted x coordinate from DFISE files in NumPy binary format
+mesh_data_electrostatic_potential.npy: Extracted electrostatic potential from DFISE files in NumPy binary format
+mesh_data_edensity.npy: Extracted electron density from DFISE files in NumPy binary format
+mesh_data_conduction_band_energy.npy: Extracted conduction band energy from DFISE files in NumPy binary format
