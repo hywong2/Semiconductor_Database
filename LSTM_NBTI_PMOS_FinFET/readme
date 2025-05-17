@@ -10,7 +10,7 @@ Descriptions: This is the time series data for a 2D transistor and 3D FinFET. It
 
 All files can be found here:
 
-https://drive.google.com/drive/folders/1bVNSs5Tkh3Wu4Xh-P9DNyh5ws1E0bbb9?usp=drive_link
+https://drive.google.com/drive/folders/1bVNSs5Tkh3Wu4Xh-P9DNyh5ws1E0bbb9?usp=drive_link 
 
 2D_NBTI_long_Training.csv: Data for the 2D structure. To repeat the paper, plot
 AveSilicon/InterfacialOxide hInterfaceTrappedCharge(Cycle_0_n31_0_des) Y
