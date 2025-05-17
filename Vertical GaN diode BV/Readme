@@ -13,6 +13,7 @@ dBV_nid999_3X09_0X31_3_0X0556_0X15_des.plt: Example of BV curve
 ds_file_id999_3X09_0X31_3_0X0556_0X15.cmd: Example of device simulation set up for fast method
 par_id999_3X09_0X31_3_0X0556_0X15_des.par: Example of device parameters
 sp_file_id999_3X09_0X31_3_0X0556_0X15.cmd: Example of structure creation file
+ds_file_id99_3X05_1X86_9_0X0517_0X28.cmd: Example of device simulation set up for full method
 
 Each filename has this format: 
 e.g. nid999_3X09_0X31_3_0X0556_0X15_msh.cmd
@@ -22,6 +23,8 @@ FastModel_04182022_3530.csv : 3.5K data using fast model
 FullModel_from_300.csv : 300 data using full model
 FastModel_from_300.csv : 300 data using fast model to compare with the full model
 
-Original TCAD files generated for 300 fast and 300 full models:
+Original TCAD files generated for 300 fast and 300 full models and 4000 data for fast:
 
 https://drive.google.com/drive/folders/1yagwURLX1Tleq32IKfla0iwQlvRb43u_?usp=drive_link
+zero_des.tdr: saved at zero biased
+des.tdr: saved at BV
