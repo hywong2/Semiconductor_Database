@@ -48,3 +48,7 @@ Albert Lu, Yu Foon Chau, and Hiu-Yung Wong, "Physics-Informed Neural Network for
 GaO_Parameters_Variation:
 
 M. Eng and H. Y. Wong, "Automatic TCAD Model Parameter Calibration using Autoencoder," 2023 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Kobe, Japan, 2023, pp. 277-280, doi: 10.23919/SISPAD57422.2023.10319530.
+
+Vertical_GaN_Diode_IV_BV_CV:
+
+N. Yee, A. Lu, Y. Wang, M. Porter, Y. Zhang and H. Y. Wong, "Rapid Inverse Design of GaN-on-GaN Diode with Guard Ring Termination for BV and (VFQ)−1 Co-Optimization," 2023 35th International Symposium on Power Semiconductor Devices and ICs (ISPSD), Hong Kong, 2023, pp. 143-146, doi: 10.1109/ISPSD57135.2023.10147511.
