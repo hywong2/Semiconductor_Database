@@ -8,6 +8,16 @@ TCAD Version: S-2021.06
 
 Descriptions: Design of GaN vertical diode with guard rings. 300 with full model and ~3000 with fast model.
 Files:
+
+dBV_nid999_3X09_0X31_3_0X0556_0X15_des.plt: Example of BV curve
+ds_file_id999_3X09_0X31_3_0X0556_0X15.cmd: Example of device simulation set up for fast method
+par_id999_3X09_0X31_3_0X0556_0X15_des.par: Example of device parameters
+sp_file_id999_3X09_0X31_3_0X0556_0X15.cmd: Example of structure creation file
+
+Each filename has this format: 
+e.g. nid999_3X09_0X31_3_0X0556_0X15_msh.cmd
+gap=3.09um, width=0.31um, ngr (number of guard ring=3, sigma = 0.0556um, depth=0.15um
+
 FastModel_04182022_3530.csv : 3.5K data using fast model
 FullModel_from_300.csv : 300 data using full model
 FastModel_from_300.csv : 300 data using fast model to compare with the full model
