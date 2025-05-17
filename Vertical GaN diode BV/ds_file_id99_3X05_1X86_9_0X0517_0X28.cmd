@@ -3,11 +3,11 @@
 
 
 File {
-	Grid= "/home/014309984/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/nid99_3X05_1X86_9_0X0517_0X28_msh.tdr"
-	Plot= "/home/014309984/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/nid99_3X05_1X86_9_0X0517_0X28_des.tdr"
-	Current= "/home/014309984/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/nid99_3X05_1X86_9_0X0517_0X28_des.plt"
-	Parameter= "/home/014309984/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/par_id99_3X05_1X86_9_0X0517_0X28_des.par"
-        Output= "/home/014309984/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/sdevice_nid99_3X05_1X86_9_0X0517_0X28_des.log"
+	Grid= "/home/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/nid99_3X05_1X86_9_0X0517_0X28_msh.tdr"
+	Plot= "/home/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/nid99_3X05_1X86_9_0X0517_0X28_des.tdr"
+	Current= "/home/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/nid99_3X05_1X86_9_0X0517_0X28_des.plt"
+	Parameter= "/home/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/par_id99_3X05_1X86_9_0X0517_0X28_des.par"
+        Output= "/home/GaN/P1_FasterBV/Generation/S1_R2_300/GaN/sdevice_nid99_3X05_1X86_9_0X0517_0X28_des.log"
   }
 
 Electrode {
