@@ -22,6 +22,7 @@ gap=3.09um, width=0.31um, ngr (number of guard ring=3, sigma = 0.0556um, depth=0
 FastModel_04182022_3530.csv : 3.5K data using fast model
 FullModel_from_300.csv : 300 data using full model
 FastModel_from_300.csv : 300 data using fast model to compare with the full model
+FastModel_3530_fast.csv: 3530 data using fast model
 
 Original TCAD files generated for 300 fast and 300 full models and 4000 data for fast:
 
