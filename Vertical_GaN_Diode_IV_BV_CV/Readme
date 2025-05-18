@@ -19,3 +19,10 @@ https://drive.google.com/drive/folders/17QiHXGFFbhjtxStVekhDkA7V8sL-2z2y?usp=dri
 BV.tar: simulation curves of the 2666 data 
 CV.tar: simulation curves of the 2666 data
 IV.tar: simulation curves of the 2666 data
+
+BV_CV_TCAD_Files: Folder contains dfise files and the generation template of BV and CV curves. *des.* are the files at BV. *zero_des.* are the files at zero bias.
+
+Each filename has this format: 
+e.g. nid999_3X09_0X31_3_0X0556_0X15_msh.cmd
+gap=3.09um, width=0.31um, ngr (number of guard ring=3, sigma = 0.0556um, depth=0.15um
+
