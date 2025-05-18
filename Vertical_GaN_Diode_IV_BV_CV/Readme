@@ -26,3 +26,5 @@ Each filename has this format:
 e.g. nid999_3X09_0X31_3_0X0556_0X15_msh.cmd
 gap=3.09um, width=0.31um, ngr (number of guard ring=3, sigma = 0.0556um, depth=0.15um
 
+IV_TCAD_Files:  Folder contains dfise files and the generation template of IV curves. *des.* are the files at 8V. *zero_des.* are the files at zero bias.
+
