@@ -9,6 +9,8 @@ TCAD Version: S-2021.06
 Descriptions: Design of GaN vertical diode with guard rings. Guard ring numbers, depth, width and spacing are varied. About 2666 are generated and only 266 were used in the paper. They contains BV, IV, and CV.
 Files:
 
+Note that 266 were used in the paper but the data here has a size of 2666.
+
 DatasetB2_Output_2022_09_28_15_17_11.csv: 2666
 Total_Charge,BV,X,Y,3.5V,4.5V,Ron,Vf,gap,width,ngr,sigma,depth
 refer to
