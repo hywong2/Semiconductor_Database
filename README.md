@@ -52,3 +52,8 @@ M. Eng and H. Y. Wong, "Automatic TCAD Model Parameter Calibration using Autoenc
 Vertical_GaN_Diode_IV_BV_CV:
 
 N. Yee, A. Lu, Y. Wang, M. Porter, Y. Zhang and H. Y. Wong, "Rapid Inverse Design of GaN-on-GaN Diode with Guard Ring Termination for BV and (VFQ)−1 Co-Optimization," 2023 35th International Symposium on Power Semiconductor Devices and ICs (ISPSD), Hong Kong, 2023, pp. 143-146, doi: 10.1109/ISPSD57135.2023.10147511.
+
+SDE_Input_LLM_Data:
+
+L. M. Long Nguyen, A. Lu and H. Y. Wong, "TCAD Structure Input File Generation Using Large Language Model," 2024 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), San Jose, CA, USA, 2024, pp. 1-4, doi: 10.1109/SISPAD62626.2024.10733015.
+
