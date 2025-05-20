@@ -1,0 +1,13 @@
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: L. M. Long Nguyen, A. Lu and H. Y. Wong, "TCAD Structure Input File Generation Using Large Language Model," 2024 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), San Jose, CA, USA, 2024, pp. 1-4, doi: 10.1109/SISPAD62626.2024.10733015.
+
+TCAD Tool: TCAD Sentaurus
+
+TCAD Version: O-2018.06
+
+Descriptions: This is about generating nanowire structure file based on natural language. Each pair has a natural language description and Sentaurus Structure Editor command file.
+
+The 7k2x.json file was the dataset used to train the best model from llama_3.1_instruct model from Meta. 
+
+
