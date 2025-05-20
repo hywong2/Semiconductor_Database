@@ -8,6 +8,8 @@ TCAD Version: O-2018.06
 
 Descriptions: This is about generating nanowire structure file based on natural language. Each pair has a natural language description and Sentaurus Structure Editor command file.
 
+https://drive.google.com/drive/folders/11KwRcfupAK7SDygjpZ7X4aT-KEJMuQzS?usp=drive_link
+
 The 7k2x.json file was the dataset used to train the best model from llama_3.1_instruct model from Meta. 
 
 
