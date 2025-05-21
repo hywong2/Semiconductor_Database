@@ -1,0 +1,15 @@
+Contact: hiuyung.wong@sjsu.edu
+
+Citation: Vedant Sawal and Hiu Yung Wong, "Stuck-at Faults in ReRAM Neuromorphic Circuit Array and their Correction through Machine Learning," 2024 IEEE Latin American Electron Devices Conference (LAEDC), Guatemala City, Guatemala, 2024, pp. 1-4, doi: 10.1109/LAEDC61552.2024.10555838.
+
+Tool: Spectre
+
+Version: IC616
+
+Descriptions: This folder contains the data of a neuromoprhic circuit (using ReRAM) which predict the digit of a given handwritten image based on the output voltage at the final stage. There are 1797 data.
+
+Files:
+
+data_1797.csv: 10 voltage outputs and the actual digit.  
+input.scs: input file example to simulate the neuromorphic circuit
+output_0.txt: 10 voltage predictions from the neuromorphic circuit (this corresponds to the first row in data_1797.csv)
