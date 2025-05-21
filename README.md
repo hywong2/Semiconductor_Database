@@ -57,3 +57,8 @@ SDE_Input_LLM_Data:
 
 L. M. Long Nguyen, A. Lu and H. Y. Wong, "TCAD Structure Input File Generation Using Large Language Model," 2024 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), San Jose, CA, USA, 2024, pp. 1-4, doi: 10.1109/SISPAD62626.2024.10733015.
 
+Neuromophic_Circuit_Correction_ML:
+
+Vedant Sawal and Hiu Yung Wong, "Stuck-at Faults in ReRAM Neuromorphic Circuit Array and their Correction through Machine Learning," 2024 IEEE Latin American Electron Devices Conference (LAEDC), Guatemala City, Guatemala, 2024, pp. 1-4, doi: 10.1109/LAEDC61552.2024.10555838.
+
+
