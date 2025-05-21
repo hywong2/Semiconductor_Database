@@ -6,9 +6,16 @@ TCAD Tool: Matlab
 
 TCAD Version: R2023b
 
-Descriptions: Optimize readout pulse to minimize the readout error. Data are generated using Matlab simulatin code as a function of power, Q, measurement frequency, F, and pulse Width.
+Descriptions: Optimize readout pulse to minimize the readout error. Data are generated using Matlab simulation code as a function of power, Q, measurement frequency, F, and pulse Width.
 
 Files:
 
 I_Q_Blob_Data.xlsx: I Q data for manually optimized and machine optimized |1>/|0> readout (Fig. 10 in the paper)
-Readout error as a function of pulse conditions
+alldata_53_and_11.zip: 4266 data (Readout error as a function of various parameters). Each file contains the fidelity (e.g. 100 means 100%). The filename has the following meaning:
+e.g. power=-4+HFSS_no=1+Q=56000+Chi=120000+F=7252486100+Width=2.1e-06: 
+power=-4 means -4dB lower than nominal
+HFSS_no = 1 means not using HFSS to calculate S21 but using the analytical equation
+Q = Quality factor
+Chi = the difference between |0> and |1> shifts (see the introduction section)
+F = Measurement frequency
+Width = Readout pulse width in seconds.
