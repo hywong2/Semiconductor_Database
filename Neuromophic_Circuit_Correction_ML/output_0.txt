@@ -1,0 +1,50 @@
+
+time (s)          v("net_out_L003RC0000001S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      2.631345e-02     
+ 1.000000e-06      2.631345e-02     
+
+time (s)          v("net_out_L003RC0000002S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      0.000000e+00     
+ 1.000000e-06      0.000000e+00     
+
+time (s)          v("net_out_L003RC0000003S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      0.000000e+00     
+ 1.000000e-06      0.000000e+00     
+
+time (s)          v("net_out_L003RC0000004S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      5.733972e-04     
+ 1.000000e-06      5.733972e-04     
+
+time (s)          v("net_out_L003RC0000005S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      0.000000e+00     
+ 1.000000e-06      0.000000e+00     
+
+time (s)          v("net_out_L003RC0000006S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      5.009248e-03     
+ 1.000000e-06      5.009248e-03     
+
+time (s)          v("net_out_L003RC0000007S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      0.000000e+00     
+ 1.000000e-06      0.000000e+00     
+
+time (s)          v("net_out_L003RC0000008S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      0.000000e+00     
+ 1.000000e-06      0.000000e+00     
+
+time (s)          v("net_out_L003RC0000009S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      0.000000e+00     
+ 1.000000e-06      0.000000e+00     
+
+time (s)          v("net_out_L003RC0000010S0000000" ?resultsDir "/home/015436694/Neuromorphic/vs_2023/ResultsDir/Data0/" ?result "tran") * 1 (V)
+
+ 0.000000e+00      0.000000e+00     
+ 1.000000e-06      0.000000e+00     
