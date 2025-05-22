@@ -1,6 +1,6 @@
-PDF files of the papers can be found in the corresponding folders.
+Cite: Hiu Yung Wong, "Semiconductor Database," https://github.com/hywong2/Semiconductor_Database/.
 
-Citations:
+PDF files of the papers can be found in the corresponding folders.
 
 FinFET14nm:
 
