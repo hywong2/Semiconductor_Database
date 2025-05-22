@@ -6,6 +6,23 @@ TCAD Tool: TCAD Sentaurus
 
 TCAD Version: S-2021.06
 
-Descriptions: 
+Descriptions: This folder contains the 9,268 data (device images and IdVg curves). The file naming convention is
+e.g. 
+
+IdVg_VdSat_n99_0X13954379612287085_0X15730937158158664_0X07422000864443098_66_extract.csv
+
+99: Lg = 99nm
+0X13954379612287085: Poly thickness: 0.1395um
+0X15730937158158664: Substrate thickness: 0.1563um
+0X07422000864443098: Xj: 0.074um
+66: Spacer thickness of 66nm
 
 Files:
+
+CSV_Sat.tar: 9,268 data for the IV curves
+ds_template.cmd: Sdevice Simulaiton Template
+sdevice_des.par: Sdevice Parameter File
+sp_file_template.cmd: Structure Editor Simulation Template
+
+https://drive.google.com/drive/folders/1CKiQ8eLUuVO3PQ1Mnt2M0LotoJUveW-y?usp=drive_link
+Multiple_new_color_thick_lines.tar: 9,268 data for the MOSFET images
