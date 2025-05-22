@@ -15,6 +15,7 @@ GaO_Schottky_Diode_T_WF:
 Harsaroop Dhillon, Kashyap Mehta, Ming Xiao, Boyan Wang, Yuhao Zhang, and Hiu Yung Wong, "TCAD-Augmented Machine Learning with and without Domain Expertise," in IEEE Transactions on Electron Devices, vol. 68, no. 11, pp. 5498-5503, Nov. 2021, doi: 10.1109/TED.2021.3073378.
 
 Vertical GaN diode BV:
+
 Albert Lu, Jordan Marshall, Yifan Wang, Ming Xiao, Yuhao Zhang, Hiu Yung Wong, "Vertical GaN diode BV maximization through rapid TCAD simulation and ML-enabled surrogate model," Solid-State Electronics, Volume 198, 2022, 108468, https://doi.org/10.1016/j.sse.2022.108468.
 
 Inverter_Contact_Resistance:
@@ -27,7 +28,7 @@ K. Mehta, S. S. Raju, M. Xiao, B. Wang, Y. Zhang and H. Y. Wong, "Improvement of
 
 1D-PiN-Diode-ML-with-Noise:
 
-Citation: S. S. Raju, B. Wang, K. Mehta, M. Xiao, Y. Zhang and H. -Y. Wong, "Application of Noise to Avoid Overfitting in TCAD Augmented Machine Learning," 2020 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Kobe, Japan, 2020, pp. 351-354, doi: 10.23919/SISPAD49475.2020.9241654.
+S. S. Raju, B. Wang, K. Mehta, M. Xiao, Y. Zhang and H. -Y. Wong, "Application of Noise to Avoid Overfitting in TCAD Augmented Machine Learning," 2020 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Kobe, Japan, 2020, pp. 351-354, doi: 10.23919/SISPAD49475.2020.9241654.
 
 SC_Qubit_Readout_Optimization:
 
